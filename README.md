@@ -7,6 +7,7 @@ La seguridad ya que muchos usuarios hacen compras dentro de dichos juegos y la p
 # ARQUITECTURA DE CISCO!
 
   En el video apreciamos la diferente cartera de servicios que ofrece cisco y como puede adaptarse a sus clientes.
-El modelo de arquitectura de Cisco separa la red empresarial en áreas funcionales. 
+podemos ver como el modelo de arquitectura de Cisco separa la red empresarial en áreas funcionales,asi como su seguridad y el manejo de sus costos optimizando recursos
 La modalidad que se incorpora a la arquitectura permite que haya flexibilidad en el diseño de red y facilita su implementación y la resolución de problemas.
+
 
